@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+25-Nov,1,1,Alan,I worked on the Command Pattern,I will work on the undo feature(Momento pattern),In three days,No blockers.
+25-Nov,1,1,Glyn,Made progress on the MVC pattern ,Continue to work on the MVC pattern and reimplement parts of the code to follow MVC,In three days,No
+25-Nov, 1, 1, Jesse, Updated proper src files and began MVC skeleton, Adding methods within the MVC pattern properly (i.e. functional vs. visual), 2-4 days, No
+25/11/2021,S1,1,Muzzammil,Worked on implementing the UML structure into code,Commit to develop next,27/11/2021,no

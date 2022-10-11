@@ -1,0 +1,5 @@
+Story Reviewed, Name, Reviewer, Pull Request Link, Brief Summary of Comments
+DEV14-MVC Pattern,Glyn,Alan,https://github.com/UTMCSC207/assignment3-dinnerskippers/pull/3,"Skeleton code for MVC, need to refactor and break apart view into view and controller classes. Currently View is both the Controller and the View."
+DEV12-Momento Pattern, Muzzammil, Jesse, https://github.com/UTMCSC207/assignment3-dinnerskippers/pull/5, "Created undo functionality using the momento pattern"
+DEV11-CommandPattern, Alan, Glyn, https://github.com/UTMCSC207/assignment3-dinnerskippers/pull/2, "Created SaveCommand,UndoCommand,RestartCommand classes implementing the command pattern"
+DEV13-StrategyPattern, Jesse, Muzzammil, https://github.com/UTMCSC207/assignment3-dinnerskippers/pull/4, "Implemented the strategy pattern for different move algorithms human/random/greedy"

@@ -1,0 +1,6 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+,,,,,,,
+29-Nov,1,3,Glyn,refactoring some functions in MVC and made progress on controller,continue fixing the controller and starting factory pattern,i'll be done within a day,CMD&Momento pattern
+29-Nov,1,3,Alan,Worked on decoupling and refactoring view into view and controller,continue working on decoupling and refactoring view into view and controller,In 4-5 days,CMD&Momento pattern
+27/11/2021,S1,1,Muzzammil,Continued working on Undo functionality,develop,01/12/2021,no
+29/11/2021,1,1,Jesse,Cleaned up code and started to try and implement the code in conjunction with MVC,Will commit cleaned up code after testing,Implementation is complete but may use a day to check code using MVC methods,I am waiting on some methods in the MVC to be implemented

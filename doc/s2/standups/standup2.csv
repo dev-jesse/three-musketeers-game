@@ -1,0 +1,10 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+11/28/21,1,2,Alan,I worked on the strategy pattern with Jesse and completed the first iteration of the implemention,I am working on the MVC pattern next as it is a blocker for the implementation of the strategy pattern,The first implementation is done but may take up to one/two days after MVC is done implemented,The MVC pattern is the blocker
+11/28/21,1,2,Glyn,Implemented and fix the runMove feature,I will continue to work on refactoring the MVC and redirecting user input paths,In one day,No blockers
+26/11/2021,1,2,Muzzammil,Worked on undo method using memento pattern,commit to develop next,28/11/2021,no
+11/28/21,1,2,Jesse,I worked on the strategy pattern with Alan and completeled the first implementation,Checking for bugs and making sure it works with the MVC,First implementation is done but may use a day to fix bugs during testing, MVC pattern will need to be completed to test
+2012-02-21,2,2,Glyn,Refactored existing code to match the Factory pattern ,I plan on creating another GUI panel that will allow the selection of piece designs,1-2 days,MVC will need to be fully up to date to start working on GUI
+12/03/21,2,2,Alan,Worked on resolving bugs in the MVC pattern,Starting on observer pattern,Within 2 days,Factory pattern.
+12/03/21,2,2,Jesse,Worked on creating Observer pattern to replace builder patter,Collaborating with Alan on observer pattern implementation,Within 2 days,Factory pattern.
+02 Dec 2021,S2,2, Muzzammil, Worked on Presentation slides + tested code after Glyn's Pull Request, develop, 1 day, no
+

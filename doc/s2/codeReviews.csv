@@ -1,0 +1,5 @@
+Story Reviewed, Name, Reviewer, Pull Request Link, Brief Summary of Comments
+DEV26-OBSERVERPATTERN,Alan,Glyn,https://github.com/UTMCSC207/assignment3-dinnerskippers/pull/14, Merge conflicts need to be resolved
+DEV26-OBSERVERPATTERN,Alan,Jesse,https://github.com/UTMCSC207/assignment3-dinnerskippers/pull/13, A visual bug on the slider where it updates late needs to be fixed
+DEV24-MVCPATTERN,Alan,Muzzammil,https://github.com/UTMCSC207/assignment3-dinnerskippers/pull/9, Application runs as accepted and can be merged
+DEV25-FactoryPattern,Glyn,Alan,https://github.com/UTMCSC207/assignment3-dinnerskippers/pull/10, Merge conflicts need to be resolved but Glyn has not fixed a bug
